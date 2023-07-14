@@ -16,22 +16,26 @@ Database: Mongo DB
 Picture cloud: Cloudinary
 
 # Interface/User Authentication
-![Screenshot 2023-07-11 111155](https://github.com/KodiBharadwaj/mern-chat-app/assets/138383233/5bce58c4-8295-4548-9e07-e6912d8e7a15)
+![LoginMern](https://github.com/concentrickiddo/MERNMessenger/assets/114588241/8e3f47da-6509-44cf-a5a7-84be283438fc)
+
 
 # How to start?
 -> Go to the terminal in vs code and then starting the backend server by using npm start
 
 -> Now switch to frontend by giving cd frontend/ and then npm start to run the server
-![Screenshot 2023-07-11 111502](https://github.com/KodiBharadwaj/mern-chat-app/assets/138383233/895f1e5e-f0a4-4423-822b-fa85c79f0612)
+![Screenshot 2023-07-14 163132](https://github.com/concentrickiddo/MERNMessenger/assets/114588241/02e25d8e-a564-4ca8-bc73-dab234973487)
+
 
 # SignUp Page
-![signup page](https://github.com/KodiBharadwaj/mern-chat-app/assets/138383233/761482ad-f24b-42b7-8646-b6cc559b03e7)
+![SignUp Mern](https://github.com/concentrickiddo/MERNMessenger/assets/114588241/4b508cfe-3d1c-4ff8-b1b5-3ba94ab1868d)
+
 
 # Login Page
-![login page](https://github.com/KodiBharadwaj/mern-chat-app/assets/138383233/e08cf065-eda6-4f17-bb93-2e0d17d8340b)
+![LoginMern](https://github.com/concentrickiddo/MERNMessenger/assets/114588241/fabe9b8e-4d73-44b4-9307-1478c6f797f8)
+
 
 # Real time chatting(Socket io) wth typing indicators
-![real time chat](https://github.com/KodiBharadwaj/mern-chat-app/assets/138383233/eb130bf4-a34e-47d4-9f55-0a14384bc258)
+
 
 # Group chat creation
 ![group](https://github.com/KodiBharadwaj/mern-chat-app/assets/138383233/982a5847-a9e5-4f4b-8a93-f25c8a5f7fa1)
