@@ -1,0 +1,4 @@
+PORT = 5000
+MONGO_URI=mongodb+srv://kodi_b200289ee:Bharadwaj@cluster0.s0bxp4d.mongodb.net/?retryWrites=true&w=majority
+JWT_SECRET=piyush
+NODE_ENV=production
