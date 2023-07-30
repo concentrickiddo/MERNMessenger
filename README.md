@@ -53,8 +53,9 @@ Picture cloud: Cloudinary
 This project is licensed under the MIT License.
 
 # Project made by
-Kodi Bharadwaj https://github.com/KodiBharadwaj
 
 Ganta Saikiran https://github.com/concentrickiddo
+
+Kodi Bharadwaj https://github.com/KodiBharadwaj
 
 For more details and information, please refer to the GitHub repository.
