@@ -20,7 +20,7 @@ const registerUser = asyncHandler(async(req,res) => {
     const { name, email,password,pic}=req.body;
 
     if(!name || !email || !password){
-        res.status(4000);
+        res.status(400);
         throw new Error("Please Enter all the Fields");
     }
     const userExists=await User.findOne({ email });
