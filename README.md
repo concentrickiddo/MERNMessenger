@@ -16,38 +16,44 @@ Database: Mongo DB
 Picture cloud: Cloudinary
 
 # Interface/User Authentication
-![LoginMern](https://github.com/concentrickiddo/MERNMessenger/assets/114588241/8e3f47da-6509-44cf-a5a7-84be283438fc)
+
+![chatpage](https://github.com/concentrickiddo/MERNMessenger/assets/114588241/00ebea35-1662-45bc-a80a-2ef8231f2faa)
 
 
 # How to start?
 -> Go to the terminal in vs code and then starting the backend server by using npm start
+![Screenshot (83)](https://github.com/concentrickiddo/MERNMessenger/assets/114588241/c3a55eba-1c76-434c-b212-e4043dbee8a5)
 
 -> Now switch to frontend by giving cd frontend/ and then npm start to run the server
-![Screenshot 2023-07-14 163132](https://github.com/concentrickiddo/MERNMessenger/assets/114588241/02e25d8e-a564-4ca8-bc73-dab234973487)
 
 
 # SignUp Page
-![SignUp Mern](https://github.com/concentrickiddo/MERNMessenger/assets/114588241/4b508cfe-3d1c-4ff8-b1b5-3ba94ab1868d)
+![sign_up](https://github.com/concentrickiddo/MERNMessenger/assets/114588241/dad8c306-c09d-460d-bc00-e6c2ed240dde)
 
 
 # Login Page
-![LoginMern](https://github.com/concentrickiddo/MERNMessenger/assets/114588241/fabe9b8e-4d73-44b4-9307-1478c6f797f8)
+
+![Login](https://github.com/concentrickiddo/MERNMessenger/assets/114588241/b6964a7f-391b-4205-8740-fa810fec84da)
 
 
 # Real time chatting(Socket io) wth typing indicators
+![typing](https://github.com/concentrickiddo/MERNMessenger/assets/114588241/7dfb736e-7741-4bb5-916c-7e24b7eb951d)
 
 
 # Group chat creation
-![group](https://github.com/KodiBharadwaj/mern-chat-app/assets/138383233/982a5847-a9e5-4f4b-8a93-f25c8a5f7fa1)
+![NEW_GROUP_CHAT](https://github.com/concentrickiddo/MERNMessenger/assets/114588241/784de219-f7d7-4db3-8736-0718d364d76b)
+
 
 # Notifications for new messages
-![notification](https://github.com/KodiBharadwaj/mern-chat-app/assets/138383233/21d5cf6a-c784-45a1-89cd-1a188fc89969)
+![NOTIFICATION](https://github.com/concentrickiddo/MERNMessenger/assets/114588241/0af16ec1-4f7a-4a2c-8957-56c4d4b9acc6)
+
 
 # User Profile
-![profile](https://github.com/KodiBharadwaj/mern-chat-app/assets/138383233/8680a7b6-6c18-448c-b876-b1ad163973ad)
+![Screenshot (100)](https://github.com/concentrickiddo/MERNMessenger/assets/114588241/125dc1d7-5da4-4d34-bf00-ed69123cefea)
+
 
 # Search Users
-![search](https://github.com/KodiBharadwaj/mern-chat-app/assets/138383233/37e86bf4-4363-48a2-ba49-92d38731bc86)
+![search_users](https://github.com/concentrickiddo/MERNMessenger/assets/114588241/2fbed1b8-a2dc-459e-b4ed-af41fb7c3149)
 
 # License
 This project is licensed under the MIT License.
